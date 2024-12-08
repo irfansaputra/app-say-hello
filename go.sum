@@ -1,2 +1,8 @@
 github.com/irfansaputra/go-say-hello v1.0.0 h1:dDBD0ehDVRak3k7PZ4cZ0wrIc3EYg3LMXBvPJe/f/9Q=
 github.com/irfansaputra/go-say-hello v1.0.0/go.mod h1:tc8W8itymJfPQHdKHs8S6a9uMVqPt9CUwPqiAP/pmcg=
+github.com/irfansaputra/go-say-hello v1.5.0 h1:VCnzigZkJ+1lJ3pGTQzzkEcStdEjjDWI7LFZiFExXD8=
+github.com/irfansaputra/go-say-hello v1.5.0/go.mod h1:tc8W8itymJfPQHdKHs8S6a9uMVqPt9CUwPqiAP/pmcg=
+github.com/irfansaputra/go-say-hello/v2 v2.0.0 h1:5MUQd6y9IEiVJekgtDzGy35D2b7XUyiSZP1NXl4lMtI=
+github.com/irfansaputra/go-say-hello/v2 v2.0.0/go.mod h1:r+1yH+kcOawgP9V2A1Pj8Y/82xBanWUnrqaXl9XP/B8=
+github.com/irfansaputra/go-say-hello/v2 v2.0.1 h1:UrxSWOfPtIHX5migGygfd93Z2d6Xq5ccnXA/cGi9gkI=
+github.com/irfansaputra/go-say-hello/v2 v2.0.1/go.mod h1:r+1yH+kcOawgP9V2A1Pj8Y/82xBanWUnrqaXl9XP/B8=
